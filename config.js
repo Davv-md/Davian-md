@@ -44,7 +44,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6287789507400'
+global.nomorbot = '6282120936898'
 global.nomorown = '6287789507400'
 global.nomorown1 = '0'
 global.nomorown2 = '0'
@@ -56,7 +56,7 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'Created By Davian'
 global.namebot = ' Davv 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Davv'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = 'Davv 𝑴𝒅 '
